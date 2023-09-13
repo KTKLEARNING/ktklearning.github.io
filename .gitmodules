@@ -1,0 +1,13 @@
+[submodule "public/ktklearning.github.io"]
+	path = public/ktklearning.github.io
+	url = https://github.com/KTKLEARNING/ktklearning.github.io.git
+	branch = main
+[submodule "content/public"]
+	path = content/public
+	url = https://github.com/KTKLEARNING/ktklearning.github.io
+[submodule "public"]
+	path = public
+	url = https://github.com/KTKLEARNING/ktklearning.github.io
+[submodule "ktklearning.github.io"]
+	path = ktklearning.github.io
+	url = https://github.com/KTKLEARNING/ktklearning.github.io

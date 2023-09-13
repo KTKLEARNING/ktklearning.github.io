@@ -1,0 +1,110 @@
+- id: read_more
+  translation: 阅读更多
+
+- id: contact_form
+  translation: 联系我们
+
+- id: send
+  translation: 发消息
+
+- id: contact_info
+  translation: 联系信息
+
+- id: subscribe_newsletter
+  translation: 订阅您的电子邮箱,第一时间知道活动
+
+- id: subscribe
+  translation: 订阅
+
+- id: contact_us
+  translation: 联系我们
+
+- id: latest_article
+  translation: 最新的文章
+
+- id: categories
+  translation: 类别
+
+- id: tags
+  translation: 分类
+
+- id: see_all
+  translation: 看到所有
+
+- id: apply_now
+  translation: 现在加入
+
+- id: posted_by
+  translation: 发布者：
+
+- id: date
+  translation: 日期
+
+- id: time
+  translation: 事件
+
+- id: category
+  translation: 类别
+
+- id: related_course
+  translation: 相关课程
+
+- id: duration
+  translation: 时常
+
+- id: weekly
+  translation: 每周
+
+- id: fee
+  translation: 佣金
+
+- id: teacher
+  translation: 教师
+
+- id: location
+  translation: 位置
+
+- id: entry_fee
+  translation: 加入费
+
+- id: event_speaker
+  translation: 讲话者
+
+- id: more_event
+  translation: 更多活动
+
+- id: join
+  translation: 加入
+  
+- id: enter_email
+  translation: Enter your email…
+
+- id: company
+  translation: 公司
+
+- id: links
+  translation: 链接
+
+- id: courses
+  translation: 课程
+
+- id: new_notice
+  translation: 新通知
+
+- id: call
+  translation: 电话
+
+- id: email
+  translation: 电子邮箱
+
+- id: all
+  translation: 所有
+
+- id: interest
+  translation: 兴趣爱好
+
+- id: our_teachers
+  translation: 我们的教师
+
+- id: download
+  translation: 下载

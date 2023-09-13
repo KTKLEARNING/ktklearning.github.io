@@ -1,0 +1,140 @@
+################################# Slider #####################################
+slider:
+  enable : true
+  bg_image : "images/banner/banner-1.jpg"
+  slider_item:
+    # slider item loop
+    - title : "Kids Teach Kids"
+      content : "At 'Kids Teach Kids', we believe in the transformative power of peer learning. Harnessing this learning model, we provide a platform for young minds to nurture and share their knowledge and skills with one another. Children not only learn new concepts but also the values of empathy, teamwork, and effective communication. Our platform encourages children to grow their creativity, enhancing their confidence, and honing their leadership skills in a supportive environment."
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Apply now"
+        link : "contact/"
+
+    # slider item loop
+    - title : "The future is malleable"
+      content : "We firmly believe that the future is not etched in stone, instead, it's malleable, shaped by actions we take today. The focus of our educational strategies is agility and innovation, equipping young minds to be more adaptable in a rapidly changing world. We encourage learners to embrace steady evolution over immediate perfection. To this end, we have crafted courses that are flexible - they grow and change as our learners do, fostering a growth mindset. We're not just preparing children for the future, we're helping them shape it."
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Apply now"
+        link : "contact/"
+
+    # slider item loop
+    - title : "Great teachers and customer support"
+      content : "Behind every successful learner is a great teacher and a robust support system. Our platform blends knowledge impartation and impeccable customer support together. We boast a team of dedicated, professional educators who are passionate about helping children reach their full potential. But our commitment to our students extends beyond just the classroom. Parents and guardians can expect top-tier customer service - be it course advising, troubleshooting, or simply providing feedback - every step of their child's educational journey, ensuring an unrivaled learning experience for our young scholars."
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Apply now"
+        link : "contact/"
+
+
+############################### Banner feature ###############################
+banner_feature:
+  enable : true
+  image : "images/banner/banner-feature.png"
+  feature_item:
+    # feature item loop
+    - name : "Employees"
+      icon : "ti-book" # icon pack : https://themify.me/themify-icons
+      content : "We currently have 5 teachers, one IT developer, one customer support, and one sales rep"
+
+    # feature item loop
+    - name : "Our Notice Board"
+      icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
+      content : "When important decisions happen inside of the organization, clients will be notified through either email or the notice board"
+
+    # feature item loop
+    - name : "Our Achievements"
+      icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
+      content : "Many of our teachers are native speakers of english, many boasting awards from the respective fields they teach"
+
+    # feature item loop
+    - name : "Fees"
+      icon : "ti-write" # icon pack : https://themify.me/themify-icons
+      content : "The due fees for the classes are currently 120 yuan per hour"
+
+
+############################## about ##################################
+about:
+  enable : true
+  title : "About KTK"
+  image : "images/about/about-us.jpg"
+  content : "As an organization, Kids Teach Kids (KTK) is deeply invested in fostering an educational culture where children empower one another through peer learning. KTK encourages children to step into the role of peer educators, sharing knowledge, and skills within their community. This model cultivates a supportive learning environment, enhancing creativity, confidence, and leadership skills in young learners. It also instills vital values of empathy, teamwork, and communication. With a strong belief in the malleability of the future, KTK’s innovative educational strategies aim to equip children with adaptability skills, preparing them for a rapidly changing world. Above all, KTK signifies a marriage of great teaching and seamless customer support, dedicating to children's full potential, ensuring parents and children receive unrivaled service at every step of the educational journey. Through KTK, the children aren't just prepared for the future, they are empowered to shape it."
+  button:
+    enable : true
+    label : "Learn more"
+    link : "about/"
+
+
+############################# Course ################################
+course:
+  enable : true
+  title : "Our Course"
+  # course item comes from "content/**/course" folder.
+
+########################## Call to action ############################
+cta:
+  enable : true
+  subtitle : "Click to Join the English Basics Class"
+  title : "Become better versed in English today!"
+  button:
+    enable : true
+    label : "join now"
+    link : "contact/"
+
+
+######################## Success story #############################
+success_story:
+  enable : true
+  bg_image : "images/backgrounds/success-story.jpg"
+  title : "Company-wide Ideals"
+  content : "Our company-wide ideals are the pillars supporting our daily operations, shaping our strategic vision, and uplifting our entire community. At the core, we value Innovation, using imagination and creativity to lead change and drive growth. Respect forms our cultural foundation, acknowledging individual contributions and promoting inclusivity. Integrity underpins our ethical business practices and transparency, earning trust across stakeholders. Excellence motivates us to surpass expectations, delivering exceptional products, services, and customer support. Empathy ensures we maintain human connection, understanding, and consider the impact of our decisions on people's lives. In summary, our key ideals - Innovation, Respect, Integrity, Excellence, and Empathy - are not merely words but active values that encourage us to innovate, respect, act with integrity, strive for greatness, and understand others. These principles ensure our growth is grounded in values that benefit all members of our company and broader society."
+  # video link
+  video_link : "https://www.youtube.com/watch?v=0RKpf3rK57I"
+
+
+############################# event ################################
+event:
+  enable : true
+  title : "Upcoming Events"
+  # event item comes from "content/**/event" folder.
+
+  
+########################### funfacts ############################
+funfacts:
+  enable : true
+  funfact_item:
+    # funfact item loop
+    - name : "TEACHERS"
+      count : "5"
+
+    # funfact item loop
+    - name : "COURSES"
+      count : "5"
+
+    # funfact item loop
+    - name : "STUDENTS"
+      count : "50"
+
+    # funfact item loop
+    - name : "SATISFIED CLIENT"
+      count : "100"
+
+# funfact is for about page
+
+
+
+############################# blog ################################
+blog:
+  enable : true
+  title : "Latest News"
+  # blog item comes from "content/**/blog" folder.

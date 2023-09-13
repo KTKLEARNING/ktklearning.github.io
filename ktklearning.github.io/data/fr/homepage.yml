@@ -1,0 +1,126 @@
+################################# Slider #####################################
+slider:
+  enable : true
+  bg_image : "images/banner/banner-1.jpg"
+  slider_item:
+    # slider item loop
+    - title : "让孩子教导孩子"
+      content : "在“让孩子教导孩子”项目中,我们相信同伴学习的变革力量。通过利用这种学习模式,我们为年轻的思维提供一个平台,以培养并分享彼此的知识和技能。孩子们不仅学习新概念,还学到了同理心、团队合作和有效沟通的价值观。我们的平台鼓励孩子们培养创造力,在支持性的环境中提高自信心,并磨练领导才能。"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Apply now"
+        link : "contact/"
+    - title : "未来是可塑的"
+      content : "我们坚信未来并非铸在石头上,而是可塑的,由我们今天所做的行动塑造。我们教育战略的重点是灵活和创新,让年轻的思维更适应快速变化的世界。我们鼓励学习者接受稳定的进化而非即时的完美。为此,我们制定了灵活的课程,随着我们的学习者成长和变化,课程也会不断发展和改变,培养成长思维。我们不仅仅是为孩子们准备未来,我们还帮助他们塑造未来。"
+      animation_in : "left"
+      animation_out : "right"
+      button:
+        enable : true
+        label : "立即申请"
+        link : "contact/"
+
+    - title : "优秀的教师和客户支持"
+      content : "在每位成功的学习者背后是一位优秀的教师和强大的支持系统。我们的平台将知识传授和优质客户支持相结合。我们拥有一支专业敬业、热衷于帮助孩子发挥他们全部潜力的团队。但我们对学生的承诺不仅仅是在课堂上。家长和监护人可以期待一流的客户服务——无论是课程咨询、故障排除还是提供反馈——在孩子的整个教育旅程中的每一步,确保我们年轻学者获得无与伦比的学习体验。"
+      animation_in : "left"
+      animation_out : "right"
+      button:
+        enable : true
+        label : "立即申请"
+        link : "contact/"
+
+
+############################### Banner feature ###############################
+banner_feature:
+  enable : true
+  image : "images/banner/banner-feature.png"
+  feature_item:
+    # feature item loop
+    - name : "员工"
+      icon : "ti-book" # icon pack : https://themify.me/themify-icons
+      content : "我们目前有5名教师、一名IT开发人员、一名客户支持人员和一名销售代表"
+
+    - name : "我们的公告板"
+      icon : "ti-blackboard"
+      content : "在组织内部进行重要决策时,我们将通过电子邮件或公告板通知客户"
+
+    - name : "我们的成就"
+      icon : "ti-agenda"
+      content : "我们的许多教师都是英语的母语人士,许多人在他们所教的领域中获得过奖项"
+
+    - name : "费用"
+      icon : "ti-write"
+      content : "目前课程的费用为每小时120元"
+
+
+############################## about ##################################
+about:
+  enable : true
+  title : "About KTK"
+  image : "images/about/about-us.jpg"
+  content : "作为一个组织,Kids Teach Kids (KTK) 在培养儿童通过同伴学习相互赋权的教育文化方面做出了巨大投入。KTK鼓励孩子们担任同龄人教育者的角色,在他们的社区内分享知识和技能。这种模式培养了一个支持性的学习环境,提高了年轻学习者的创造力、自信心和领导能力。它还灌输了同理心、团队合作和沟通等重要价值观。KTK的创新教育战略致力于为孩子们提供适应性技能,为一个快速变化的世界做好准备。最重要的是,KTK代表了优秀的教学和无缝的客户支持,致力于孩子们的全部潜力,确保父母和孩子在教育旅程的每一步都获得无与伦比的服务。透过KTK,孩子们不仅准备好迎接未来,还有权力塑造未来。"
+  button:
+    enable : true
+    label : "了解更多"
+    link : "about/"
+
+
+############################# Course ################################
+course:
+  enable : true
+  title : "我们的课程"
+  # course item comes from "content/**/course" folder.
+
+########################## Call to action ############################
+cta:
+  enable : true
+  subtitle : "点击加入英语基础课程"
+  title : "今天开始提高英语水平吧！"
+  button:
+    enable : true
+    label : "立即加入"
+    link : "contact/"
+
+
+######################## Success story #############################
+success_story:
+  enable : true
+  bg_image : "images/backgrounds/success-story.jpg"
+  title : "公司宏伟理念"
+  content : "我们公司广泛的理念是支撑着我们日常运营、塑造我们战略愿景并激励我们整个社区的支柱。在核心上,我们珍视创新,通过想象力和创造力引领变革和推动增长。尊重是我们文化基础,承认个人贡献和促进包容性。诚信是我们的道德商业实践和透明度的基石,赢得了各方的信任。优秀激励我们超越期望,提供优质的产品、服务和客户支持。同理心确保我们保持人际关系,理解和考虑我们的决策对人们生活的影响。总的来说,我们的关键理念——创新、尊重、诚信、优秀、同理心——不仅仅是词语,而是积极的价值观,鼓励我们创新、尊重他人、恪守诚信、追求卓越和理解他人。这些原则确保我们的增长基于符合所有公司成员和更广泛社会利益的价值观"
+  # video link
+  video_link : "https://www.youtube.com/watch?v=0RKpf3rK57I"
+
+
+############################# event ################################
+event:
+  enable : true
+  title : "重大事件"
+  # event item comes from "content/**/event" folder.
+
+  
+########################### funfacts ############################
+funfacts:
+  enable : true
+  funfact_item:
+    # funfact item loop
+    - name : "课程数量"
+      count : "5"
+
+    - name : "学生人数"
+      count : "50"
+
+    - name : "满意客户"
+      count : "100"
+
+# funfact is for about page
+
+
+
+############################# blog ################################
+blog:
+  enable : true
+  title : "最新消息"
+  # blog item comes from "content/**/blog" folder.
